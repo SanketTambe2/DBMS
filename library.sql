@@ -3,7 +3,7 @@ Problem Statement: Procedure to update book status using trigger
 Name:- Tambe Sanket Shivaji
 Batch:- AS4
 PRN:- UCS22M2151
-Rno:- 152
+Rno:- 151
 */
 
 /*Trigger*/
